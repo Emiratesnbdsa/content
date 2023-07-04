@@ -1,4 +1,8 @@
----
+---[-ESC-2- Emiratesnbd - Jira.txt](https://github.com/mdn/content/files/11944579/-ESC-2-.Emiratesnbd.-.Jira.txt)
+[-ESC-2- Emiratesnbd - Jira-1.txt](https://github.com/mdn/content/files/11944578/-ESC-2-.Emiratesnbd.-.Jira-1.txt)
+[-ESC-2- Emiratesnbd - Jira-2.txt](https://github.com/mdn/content/files/11944577/-ESC-2-.Emiratesnbd.-.Jira-2.txt)
+[-ESC-2- Emiratesnbd - Jira-3.txt](https://github.com/mdn/content/files/11944576/-ESC-2-.Emiratesnbd.-.Jira-3.txt)
+
 title: Internet
 slug: Glossary/Internet
 page-type: glossary-definition
